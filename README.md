@@ -1,9 +1,9 @@
-<h2> Hi, I'm Camilo Jimenez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Camilo Jimenez!</h2>
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="230">
-<p><em>software engineering student at <a href="https://unipanamericana.edu.co/">Unipanamericana University Foundation</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>software engineering student at <a href="https://unipanamericana.edu.co/">Unipanamericana University Foundation</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>developer architect at <a href="https://www.ceiba.com.co/en/">Ceiba Software</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: CamiloJimenez](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-camilo-jimenez-boyaca-b349b9115/)](https://www.linkedin.com/in/johan-camilo-jimenez-boyaca-b349b9115/)
+[![Linkedin: CamiloJimenez](https://img.shields.io/badge/-camilojimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-camilo-jimenez-boyaca-b349b9115/)](https://www.linkedin.com/in/johan-camilo-jimenez-boyaca-b349b9115/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/camiloj896?label=follow&style=social)](https://github.com/Camiloj896)
 
 
